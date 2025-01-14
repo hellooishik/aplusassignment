@@ -1,0 +1,35 @@
+/*
+Theme Name: A+ Assignmment Service
+Theme URI: https://wordpress.org/themes/aplusassignment
+Author: Oishik Dutta
+Author URI: https://www.linkedin.com/in/oishik-dutta-07/
+Description: Need assignment help from the UK's top writers? You've landed in the right place. With premium assignment writing services, we promise to provide 100% unique, grammatically correct and well-researched papers written by subject experts. 
+Requires at least: 6.1
+Tested up to: 6.6
+Requires PHP: 5.6
+Version: 1.5
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: https://myhomeworkassist.com
+Tags: Taxation Assignment , Law Assignment , Ecology Assignment ,Financial Management Assignment , Business Management , Assignment , Marketing Assignment , Project Management  Assignment , HRM Assignment , Personnel Management , Project Management Assignment , Human Resource Planning , Market Research Assignment , HRM Functions and Tasks , Market Research Assignments
+*/
+nav.navbar {
+    font-size: 16px !important;
+}
+
+
+.custom-word-count {
+    margin: 10px 0;
+}
+
+.custom-word-count label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.custom-word-count input {
+    width: 80px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
